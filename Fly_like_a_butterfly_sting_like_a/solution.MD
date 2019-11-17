@@ -1,0 +1,1 @@
+Identify the data in the PCAP as Zigbee data. Use zbdsniff on the pcap to pull out the network key. The key should be: 2f:39:7d:51:71:52:5d:7b:72:61:39:3b:72:6b:54:26. Apply the key in wireshark. Filter for destination endpoint 197. Search pcap data for the profile name of the device.
