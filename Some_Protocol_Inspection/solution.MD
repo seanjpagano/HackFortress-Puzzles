@@ -1,0 +1,1 @@
+Use Pulseview to view the file. Pulseview has a filter to set a time range to inspect. Apply a SPI decoder (1=CS#,2=MISO,3=SCLK,4=MOSI). If you are not familar with Serial Peripheral Interface - https://en.wikipedia.org/wiki/Serial_Peripheral_Interface.
